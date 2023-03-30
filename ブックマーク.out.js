@@ -12,7 +12,7 @@ const makeList = (emp,name,link,linkName) =>{
     if(emp){
         return `<tr><td class="Kyotyo"> ${name} </td><td><a href=" ${link}" target="_blank" class="Kyotyoa"> ${linkName} </a></td></tr>`
     }else{
-        return `<tr><td> ${name} </td><td><a href=" ${link}" target="_blank" class="Kyotyoa"> ${linkName} </a></td></tr>`
+        return `<tr><td> ${name} </td><td><a href=" ${link}" target="_blank"> ${linkName} </a></td></tr>`
     }
     
 }
