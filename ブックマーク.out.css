@@ -1,0 +1,25 @@
+td{
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+table{
+    width: 90%;
+    background-color: #EEFFFF;
+}
+td{
+    color: #000033;
+}
+body{
+    background-color: #FFFF99;
+}
+.Kyotyo{
+    font-size: 35px;
+    color: #660033;
+}
+.Kyotyoa{
+    font-size: 25px;
+    color: #000066;
+}
